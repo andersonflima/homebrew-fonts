@@ -4,7 +4,7 @@ cask "font-crowquill-mono" do
 
   url "https://github.com/andersonflima/crowquill-mono/releases/download/v#{version}/CrowquillMono-#{version}.zip"
   name "Crowquill Mono"
-  desc "Programming font that auto-bolds language keywords (JetBrains Mono base)"
+  desc "Programming font that auto-bolds language keywords (custom Iosevka base)"
   homepage "https://github.com/andersonflima/crowquill-mono"
 
   font "CrowquillMono-Regular.ttf"
