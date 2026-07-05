@@ -1,6 +1,6 @@
 cask "font-crowquill-mono" do
-  version "0.4.0"
-  sha256 "910b67f4af43ec975930f3feadaa0cd0cb53816d2527aa0364b258335aafe7d5"
+  version "0.5.0"
+  sha256 "e283c45f6f70db8beae21e33678a0beff0c336e16511176924cdce032b2839c0"
 
   url "https://github.com/andersonflima/crowquill-mono/releases/download/v#{version}/CrowquillMono-#{version}.zip"
   name "Crowquill Mono"
